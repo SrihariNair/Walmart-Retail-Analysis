@@ -9,6 +9,7 @@ This project focuses on exploring and analyzing Walmart sales data. It includes 
 * Database Integration: Utilized PostgreSQL to manage and query the data efficiently.
 
 **SQL Queries**
+
 This project includes a variety of SQL queries used to analyze the dataset:
 * Basic Transformations: Adding and updating new columns to enhance data with temporal attributes.
 * Aggregation Queries: Computing total sales, average ratings, and revenues by various dimensions (product line, time of day, etc.).
